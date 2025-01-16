@@ -55,6 +55,8 @@ dotnet test
    - Loose coupling between components
    - Easier unit testing through mocking
 
+3. **Configuraion File**: Makes it easy to manage more configuration in the future
+
 ## Potential Improvements
 
 1. Add batch processing for large files

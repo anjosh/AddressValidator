@@ -38,7 +38,6 @@ public class Program
 
         var services = new ServiceCollection();
 
-        services.AddHttpClient();
         services.AddSingleton(configuration);
         services.AddSingleton<IAddressParser, CsvAddressParser>();
         services.AddSingleton<ISmartyClient, SmartyClient>();

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressValidator", "AddressValidator\AddressValidator.csproj", "{088C228F-6963-45C3-BDC1-BBD7AC1075ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressValidatorTests", "AddressValidatorTests\AddressValidatorTests.csproj", "{94C77AD0-7D58-453D-AFBD-AB7E72E7AE19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088C228F-6963-45C3-BDC1-BBD7AC1075ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088C228F-6963-45C3-BDC1-BBD7AC1075ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088C228F-6963-45C3-BDC1-BBD7AC1075ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088C228F-6963-45C3-BDC1-BBD7AC1075ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C77AD0-7D58-453D-AFBD-AB7E72E7AE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C77AD0-7D58-453D-AFBD-AB7E72E7AE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C77AD0-7D58-453D-AFBD-AB7E72E7AE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C77AD0-7D58-453D-AFBD-AB7E72E7AE19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

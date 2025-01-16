@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AddressValidator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\joshu\\repos\\AddressValidator\\AddressValidator\\Data\\file.csv"
+    }
+  }
+}

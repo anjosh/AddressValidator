@@ -55,7 +55,7 @@ dotnet test
    - Loose coupling between components
    - Easier unit testing through mocking
 
-## Future Improvements to Consider
+## Potential Improvements
 
 1. Add batch processing for large files
 2. Move away from using the SDK since it doesn't have async methods
